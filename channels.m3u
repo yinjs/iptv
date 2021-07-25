@@ -31,32 +31,10 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1,CCTV-17 农业农村 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,CHC电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,CHC动作电影
-http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
-#EXTINF:-1,新视觉 HD
-http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1,金鹰纪实 高清
-http://39.135.138.5:6610/PLTV/88888888/224/3221225595/2/index.m3u8
-#EXTINF:-1,爱上4K频道
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,纯享4K
-http://39.135.138.8:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,黑莓动画
-http://39.135.138.5:6610/PLTV/88888888/224/3221225672/2/index.m3u8
-#EXTINF:-1,黑莓电影
-http://39.135.138.5:6610/PLTV/88888888/224/3221225718/2/index.m3u8
-#EXTINF:-1,黑莓电竞
-http://39.135.138.5:6610/PLTV/88888888/224/3221225653/2/index.m3u8
-#EXTINF:-1,东方影视FHD
-http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1,上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,上海新闻
 http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1,上海五星
-http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1,上海影视
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1,上海外语
@@ -169,6 +147,22 @@ http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215
 http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
 #EXTINF:-1,浙江影视娱乐FHD
 http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
+#EXTINF:-1,黑莓动画
+http://39.135.138.5:6610/PLTV/88888888/224/3221225672/2/index.m3u8
+#EXTINF:-1,黑莓电影
+http://39.135.138.5:6610/PLTV/88888888/224/3221225718/2/index.m3u8
+#EXTINF:-1,黑莓电竞
+http://39.135.138.5:6610/PLTV/88888888/224/3221225653/2/index.m3u8
+#EXTINF:-1,CHC电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1,CHC动作电影
+http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+#EXTINF:-1,金鹰纪实 高清
+http://39.135.138.5:6610/PLTV/88888888/224/3221225595/2/index.m3u8
+#EXTINF:-1,爱上4K频道
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,纯享4K
+http://39.135.138.8:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,NewTV中国功夫
 http://39.135.138.5:6610/PLTV/88888888/224/3221225660/2/index.m3u8
 #EXTINF:-1,NewTV怡伴健康
