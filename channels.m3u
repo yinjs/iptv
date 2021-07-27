@@ -8,9 +8,9 @@ http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1,CCTV-4 中文国际 高清
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1,CCTV-5 体育 高清
-http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+http://223.82.250.72/live/cctv-5/1.m3u8
 #EXTINF:-1,CCTV-5+ 体育赛事 高清
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 #EXTINF:-1,CCTV-6 电影 高清
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1,CCTV-7 国防军事 高清
@@ -24,7 +24,7 @@ http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1,CCTV-11 戏曲
 http://ivi.bupt.edu.cn/player.html?channel=cctv11
 #EXTINF:-1,CCTV-12 社会与法 高清
-http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
 #EXTINF:-1,CCTV-13 新闻 高清  
 http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1,CCTV-14 少儿 高清
